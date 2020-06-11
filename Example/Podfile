@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MagicPageBaseCN_Example' do
+  pod 'MagicPageBaseCN', :path => '../'
+
+  target 'MagicPageBaseCN_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

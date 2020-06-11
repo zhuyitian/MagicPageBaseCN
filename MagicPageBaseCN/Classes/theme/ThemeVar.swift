@@ -1,0 +1,8 @@
+var kGtId: String = ""
+var kGtKey: String = ""
+var kGtSecret: String = ""
+var kUmKey = ""
+var kUrl: String = ""
+var kStatusBarColor: String = "#FFFFFF"
+var kStatusBarLabelColor: String = "black"
+var kAdjToken: String = ""
